@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xabi,
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning a bit of Machine Learning and i have already learned some SQL, Python programming, Data Wrangling, Data Visualization (Jupyter) and a bit of Tableau.
-- 💞️ I can collaborate in projects regarding Data Analysis.
+- 👀 I’m interested in Data Science and specially in Machine Learning. I like maths :)
+- 🌱 I’m currently learning Machine Learning (both supervised and unsupervised), i am profficent in SQL, I regularly work with Python and Pyspark and I really enjoy building dashboards in Tableau.
+- 💞️ I can collaborate in projects regarding Data Analytics.
 - 📫 If you want, you can reach me under xlaibarra@gmail.com
 
 <!---
